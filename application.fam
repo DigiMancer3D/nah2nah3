@@ -1,0 +1,17 @@
+# For details & more options, see documentation/AppManifests.md in firmware repo
+
+App(
+    appid="nah2nah3",  # Must be unique
+    name="Nah 2 da Nah Nah Nah",  # Displayed in menus
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="nah2nah3_app",
+    stack_size=2 * 1024,
+    fap_category="Mini-Games",
+    # Optional values
+    fap_version="0.1",
+    fap_icon="nah2nah3_icon.png",  # 10x10 1-bit PNG
+    fap_description="Mini-Games",
+    fap_author="Z0M8I3D",
+    fap_weburl="https://github.com/user/DigiMancer3D",
+    fap_icon_assets="images",  # Image assets to compile for this application
+)
