@@ -65,6 +65,13 @@
 2. Compile `nah2nah3.c` using the Flipper Zero firmware SDK.
 3. Deploy to your Flipper Zero and launch from the apps menu.
 
+## Screenshots
+Below are screenshots showcasing **Nah2-Nah3** in action on the Flipper Zero:
+
+![Nah2-Nah3 Title Screen](https://raw.githubusercontent.com/DigiMancer3D/nah2nah3/main/screenshots/title-screen.png) &nbsp; &nbsp;
+![Zero Hero Gameplay](https://raw.githubusercontent.com/DigiMancer3D/nah2nah3/main/screenshots/Zero-Hero.png) &nbsp; &nbsp;
+![Flip Zip Gameplay](https://raw.githubusercontent.com/DigiMancer3D/nah2nah3/main/screenshots/Flip-Zip.png) &nbsp; &nbsp;
+
 ## Notes
 - Only Zero Hero and Flip Zip are fully implemented; other games are placeholders.
 - Optimized for Flipper Zero’s hardware constraints (limited stdlib, 128x64 display).
